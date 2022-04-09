@@ -19,7 +19,7 @@ Recife/Pernambuco/:brazil:
 
 ### Find me 🌎
 💼 [LinkedIn](https://www.linkedin.com/in/igor-d-9119b8104)\
-:speech_balloon: [E-mail](pedro.anjos1991@gmail.com)
+:speech_balloon: E-mail: pedro.anjos1991@gmail.com
 
 ### Links:
 - https://www.rocketseat.com.br/
