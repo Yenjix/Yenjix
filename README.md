@@ -1,6 +1,6 @@
 ### Greetings 👋! 
 I'm Pedro Henrique Anjos a programmer student from Rocketseat and DIO.
-Focusing on web development, but i know a little back end (R, Python and SQL).
+Focusing on web development, but I know a little back end (R, Python and SQL).
 
 
 Check my works in my repository! :godmode:
