@@ -17,7 +17,7 @@ Recife/Pernambuco/:brazil:
 
 ### Links:
 - https://www.rocketseat.com.br/
-- https://web.dio.me/home
+- https://www.dio.me/en
 
 
    <!--
