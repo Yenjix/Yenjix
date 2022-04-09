@@ -11,7 +11,7 @@ Recife/Pernambuco/:brazil:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yenjix&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="left" src="https://github.com/Yenjix/Yenjix/blob/main/tyrael.gif" width="500" height="200"/></p>
+<p><img align="left" src="https://github.com/Yenjix/Yenjix/blob/main/tyrael.gif" width="320" height="500"/></p>
 <p><img align="right" src="https://github.com/Yenjix/Yenjix/blob/main/legacy-of-kain-raziel.gif" width="500" height="320"/></p>
 
 
