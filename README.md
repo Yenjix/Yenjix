@@ -5,7 +5,7 @@ Check my works in my repository! :godmode:
 
 Recife/Pernambuco/:brazil:
 <a href="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/K7OAXTSFBE4T1395451232258.gif" width="400"></a>
-<a href="https://c.tenor.com/0dWgEgHxZTgAAAAC/legacy-of-kain-raziel.gif" width="400"></a>
+<a href="" width="400"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yenjix)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yenjix&show_icons=true&theme=dark)
