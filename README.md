@@ -1,5 +1,6 @@
 ### Greetings 👋! 
 I'm Pedro Henrique Anjos a programmer student from Rocketseat and DIO.
+Focusing on web development, but i know a little back end (R, Python and SQL).
 
 
 Check my works in my repository! :godmode:
@@ -14,6 +15,11 @@ Recife/Pernambuco/:brazil:
 <p>
    <img align="left" src="https://github.com/Yenjix/Yenjix/blob/main/tyrael.gif" width="320" height="500"/>
 </p>
+
+
+## Find me 🌎
+💼 [LinkedIn](https://www.linkedin.com/in/igor-d-9119b8104)
+:speech_balloon: [E-mail] (pedro.anjos1991@gmail.com)
 
 ### Links:
 - https://www.rocketseat.com.br/
