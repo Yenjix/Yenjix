@@ -1,6 +1,7 @@
 ### Greetings 👋! 
 I'm Pedro Henrique Anjos a programmer student from Rocketseat and DIO.
 
+
 Check my works in my repository! :godmode:
 
 Recife/Pernambuco/:brazil:
@@ -14,6 +15,9 @@ Recife/Pernambuco/:brazil:
    <img align="left" src="https://github.com/Yenjix/Yenjix/blob/main/tyrael.gif" width="320" height="500"/>
 </p>
 
+Links:
+- https://www.rocketseat.com.br/
+- https://web.dio.me/home
 
 
    <!--
