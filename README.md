@@ -10,6 +10,11 @@ Recife/Pernambuco/:brazil:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yenjix&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yenjix&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p><img align="right" src="https://github.com/Yenjix/Yenjix/blob/main/tyrael.gif" width="500" height="320"/></p>
+<p><img align="left" src="https://github.com/Yenjix/Yenjix/blob/main/legacy-of-kain-raziel.gif" width="500" height="320"/></p>
+
+
    <!--
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 **Yenjix/Yenjix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
