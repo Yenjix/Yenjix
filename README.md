@@ -22,8 +22,8 @@ Recife/Pernambuco/:brazil:
 :speech_balloon: E-mail: pedro.anjos1991@gmail.com
 
 ### Links:
-- https://www.rocketseat.com.br/
-- https://www.dio.me/en
+- Rocketseat: https://www.rocketseat.com.br/
+- DIO: https://www.dio.me/en
 
 
    <!--
