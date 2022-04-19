@@ -16,6 +16,9 @@ Recife/Pernambuco/:brazil:
    <img align="left" src="https://github.com/Yenjix/Yenjix/blob/main/tyrael.gif" width="320" height="500"/>
 </p>
 
+## Bootscamps Concluídos:
+- Cognizant Cloud Data Engineer #2
+- Órbi Web Games Developer
 
 ## Find me 🌎
 💼 [LinkedIn](https://www.linkedin.com/in/igor-d-9119b8104)\
@@ -24,6 +27,7 @@ Recife/Pernambuco/:brazil:
 ### Links:
 - Rocketseat: https://www.rocketseat.com.br/
 - DIO: https://www.dio.me/en
+
 
 
    <!--
