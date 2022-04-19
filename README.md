@@ -26,7 +26,7 @@ Recife/Pernambuco/:brazil:
 
 ### Links:
 - Rocketseat: https://www.rocketseat.com.br/
-- DIO: https://www.dio.me/en
+- Digital Innovation One (DIO): https://www.dio.me/en
 
 
 
